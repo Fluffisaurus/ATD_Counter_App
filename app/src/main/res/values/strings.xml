@@ -1,0 +1,34 @@
+<resources>
+    <!--MainActivity: Start Screen Stuff-->
+    <string name="app_name">Antlion TD Counter</string>
+    <string name="enter">Enter</string>
+    <string name="start_screen_info">Enter starting amount:</string>
+    <string name="edit_text_info">Enter an integer value</string>
+
+    <!--Handle Main: Counter Portion-->
+    <string name="honey_title">Amount of Honey:</string>
+    <string name="sub_1">-1 Honey</string>
+    <string name="sub_2">-2 Honey</string>
+    <string name="sub_4">-4 Honey</string>
+    <string name="sub_5">-5 Honey</string>
+    <string name="button_reset">Reset</string>
+
+    <!--Handle Main: Table Info Portion-->
+    <string name="tower_description">Tower Name (Cost) </string>
+    <string name="tower_cost">Max # \n of Units</string>
+    <string name="tower_build">Build</string>
+    <string name="leafcutter_ant">Leafcutter Ants (1):</string>
+    <string name="bullet_ant">Bullet Ants (2):</string>
+    <string name="fire_ant">Fire Ants (4):</string>
+    <string name="electric_ant">Electric Ants (5):</string>
+    <string name="turn_counter">Turn Counter</string>
+
+    <!--TurnCounter: stuff-->
+    <string name="update_title">General Updates:</string>
+    <string name="electric_attack">Electrics Ants attack!</string>
+    <string name="fire_attack">Fire Ants attack!</string>
+    <string name="no_updates">No updates just yet. (:</string>
+
+    <string name="turn_info">Turn</string>
+    <string name="next_turn_button">Next Turn</string>
+</resources>
